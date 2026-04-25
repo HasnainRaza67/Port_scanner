@@ -56,8 +56,8 @@ This project demonstrates fundamental networking and cybersecurity concepts by s
 Clone the repository:
 
 ```bash id="kzz9o3"
-git clone https://github.com/HasnainRaza67/port-scanner.git
-cd port-scanner
+git clone https://github.com/HasnainRaza67/Port_scanner.git
+cd Port_scanner
 ```
 
 No external dependencies are required.
